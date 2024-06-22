@@ -30,6 +30,8 @@ To Clone the Repo :
     
     GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/spaces/prithivMLmods/save-web-as-zip
 
+## Scrap everything from a Website
+
 ![alt text](assets/mg2.png)
 
 .
