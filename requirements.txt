@@ -1,4 +1,4 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
-gradio==4.36.1
-gdown==5.2.0
+requests
+beautifulsoup4
+gradio
+gdown
