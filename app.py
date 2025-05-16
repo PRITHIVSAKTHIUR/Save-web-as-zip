@@ -112,4 +112,4 @@ with gr.Blocks(theme="bethecloud/storj_theme") as demo:
         outputs=output_file,
         fn=generate_zip_file
     )
-demo.launch()
+demo.launch(ssr_mode=False)
