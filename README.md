@@ -17,8 +17,6 @@ To Clone the Repo :
 
 ![alt text](assets/mg2.png)
 
-.
+## BMW Index Page
 
-.
-
-.
+https://github.com/user-attachments/assets/12c7e1e8-157d-4092-9f00-d0bc06914177
